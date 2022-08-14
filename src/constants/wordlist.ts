@@ -8,6 +8,16 @@ export const WORDS = [
 'baase',
 'çhing',
 'dewil',
+'pairk',
+'eunys',
+'veagh',
+'traie',
+'cliwe',
+'eddyr',
+'shenn',
+'kiark',
+'yrjid',
+
 ]
 
 if (CONFIG.normalization) {
