@@ -4,7 +4,10 @@ export const WORDS = [
 'gitar',
 'jeeyl',
 'kiare',
-
+'ineen',
+'baase',
+'çhing',
+'dewil',
 ]
 
 if (CONFIG.normalization) {
